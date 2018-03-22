@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Proyectos\ProyectosAndroid\CAFT2016\GridViewMultipleSelect\GridViewMultipleChoicesAndroid\GridViewMultipleChoices.iml" filepath="D:\Proyectos\ProyectosAndroid\CAFT2016\GridViewMultipleSelect\GridViewMultipleChoicesAndroid\GridViewMultipleChoices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridViewMultipleChoicesAndroid.iml" filepath="$PROJECT_DIR$/GridViewMultipleChoicesAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
